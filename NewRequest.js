@@ -141,15 +141,4 @@ const start = async () => {
         }
     }
 }
-
-
-
-// currentSlugIndex  = currentSlugIndex > 0? 
-//                     currentSlugIndex - 1
-//                     : currentSlugIndex
-
-// currentSlugIndex  = currentSlugIndex < slugs.length - 1? 
-//                     currentSlugIndex + 1
-//                     : currentSlugIndex 
-
 start()
