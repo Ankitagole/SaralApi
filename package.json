@@ -9,7 +9,7 @@
   "author": "ankitaq",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "readline-sync": "^1.4.9"
   }
 }
